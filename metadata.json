@@ -1,0 +1,5 @@
+{
+  "name": "Chatbot Widget Builder",
+  "description": "An interactive chatbot assistant that helps users build, customize, and preview a personalized website chatbot. Configure its knowledge base, personality, and appearance, then generate an embeddable code snippet for your site.",
+  "requestFramePermissions": []
+}
